@@ -3,7 +3,7 @@
 Hi folks, this is my sample project with some of the common android technologies
 
 ## FEATURES:
-1. Displaying a album list return by API calls, each item will have album's title, its singer's name and a list of thumbnails.
+1. Displaying a album list returned by API calls, each item will have album's title, its singer's name and a list of thumbnails.
 The data should be combined from the 3 APIs as below:
 - API to get all the albums: https://jsonplaceholder.typicode.com/albums
 - API to get all the singers: https://jsonplaceholder.typicode.com/users
