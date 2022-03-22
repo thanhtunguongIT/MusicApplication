@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Application</string>
+    <string name="search_hint">Search album by singer name/username</string>
+    <string name="loading_text">Loading...</string>
+    <string name="empty_list">Currently we don\'t have any available album for you. \nPlease try again later</string>
+    <string name="search_result_empty">Oh, your search could not be found :( \nPlease try with another one</string>
+</resources>
